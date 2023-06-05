@@ -1,0 +1,23 @@
+body
+{
+    background-color: plum;
+}
+
+#camera , #result
+{
+    border: 3px solid black;
+    width: 350px;
+    height: 300px;
+}
+
+.heading
+{
+    font-size: medium;
+}
+
+.names
+{
+    width: 80%;
+    font-size: 20px;
+    height: 40px;
+}
